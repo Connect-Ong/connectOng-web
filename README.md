@@ -38,4 +38,4 @@ Rode ```npm start``` nas pastas backend e frontend para utilizar a versão web. 
 
 ---
 
-<p align="center">Gabriela Bezerra, Alley Pereira, Robson Ribeiro, Bianca Rocha e Antonio Guilherme  <strong> - Projeto Social IFCE </p>  
+<!-- <p align="center">Gabriela Bezerra, Alley Pereira, Robson Ribeiro, Bianca Rocha e Antonio Guilherme  <strong> - Projeto Social IFCE </p>   -->
